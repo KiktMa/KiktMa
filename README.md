@@ -13,4 +13,7 @@ Here are some of the programming languages and technologies I've been working wi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiktMa&layout=compact)
 
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiktMa)
+
+
 Feel free to connect with me and explore my projects! Let's learn and grow together.
