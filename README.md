@@ -1,4 +1,4 @@
-### Hi there, I'm [KiktMa] 👋
+### Hi there, I'm KiktMa 👋
 
 I'm a passionate software developer with a love for creating innovative solutions and bringing ideas to life through code. My journey in the world of programming has led me to explore various technologies and languages to build robust and efficient applications.
 
@@ -11,12 +11,6 @@ I'm a passionate software developer with a love for creating innovative solution
 
 Here are some of the programming languages and technologies I've been working with recently:
 
-- Python
-- JavaScript
-- Scala
-- Java
-- Node.js
-- SQL
-- Docker
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiktMa&layout=compact)
 
 Feel free to connect with me and explore my projects! Let's learn and grow together.
