@@ -11,7 +11,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 Here are some of the programming languages and technologies I've been working with recently:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiktMa&layout=compact&hide=JavaScript,GLSL,html,css,SCSS&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiktMa&layout=compact&hide=JavaScript,GLSL,html,css,SCSS,TSQL&langs_count=6)
 
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiktMa)
 
